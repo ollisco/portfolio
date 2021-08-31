@@ -29,6 +29,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.underline{
+    text-decoration: underline;
+}
+
+.strong {
+    text-decoration: underline
+}
 
 #path{
     background:transparent url("https://i.imgur.com/7r91PY3.jpeg")
@@ -215,6 +222,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.25rem;
 		margin: 0 0 1.5rem 0;
+
 	}
 
 	h4 {

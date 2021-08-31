@@ -24,16 +24,29 @@ $(function() {
         }
     );
 });
+
 $(function() {
 
     $("#pathfinding").hover(
 
         function() {
             $(this).attr("src", "images/pathfinding-gif.gif");
-            console.log(0);
         },
         function() {
             $(this).attr("src", "images/pathfinding-startframe.png");
+        }
+    );
+});
+
+$(function() {
+
+    $("#komitid").hover(
+
+        function() {
+            $(this).attr("src", "images/komitid.gif");
+        },
+        function() {
+            $(this).attr("src", "images/komitid.png");
         }
     );
 });
