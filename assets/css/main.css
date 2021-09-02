@@ -41,6 +41,10 @@ footer, header, hgroup, menu, nav, section {
     background:transparent url("https://i.imgur.com/7r91PY3.jpeg")
 }
 
+.large-list{
+    font-size: 20pt;
+}
+
 body {
 	line-height: 1;
 }
