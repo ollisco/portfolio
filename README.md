@@ -1,5 +1,5 @@
-# portfolio
-my portfolio
+# Portfolio
 
-"publish-portfolio"
-Tom gillar majs
+This is the Github repository for my Portfolio.
+
+The Portfolio is hosted at my website: [ollisco.se](https://ollisco.se)
